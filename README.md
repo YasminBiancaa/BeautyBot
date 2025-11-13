@@ -1,1 +1,1 @@
-# BeautyBot
+# bot-gemini
